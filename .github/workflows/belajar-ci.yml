@@ -9,4 +9,4 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Run a one liner
-      run: echo "Hello dari github Malaysia!!"
+      run: echo "Hello dari Malaysia!!"
